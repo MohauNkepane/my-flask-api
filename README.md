@@ -1,14 +1,14 @@
 # my-flask-api
 
-Very much in development
-The aim is to become the middle man between firestore and the front-end of app will be dealing books from freelance writers.
+Very much in development<br />
+The aim is to become the middle man between firestore and the front-end of app will be dealing books from freelance writers.<br />
 
 # My Endpoints
-'/'   ==== For get all the stored books
-'/Name/<str : name>' ==== method = [POST] , for storing a book
-'/Name/<str : name>' ==== method = [DELETE] , for deleting a book
-'/Name/<str : name>' ==== method = [GET] , for pulling by a book by its name
+'/'   ==== For getting all the stored books<br />
+'/Name/<str : name>' ==== method = [POST] , for storing a book<br />
+'/Name/<str : name>' ==== method = [DELETE] , for deleting a book<br />
+'/Name/<str : name>' ==== method = [GET] , for pulling by a book by its name<br />
 
 # Coming Soon
-Connection to firestore
-Other Awesome staff
+Connection to firestore<br />
+Other Awesome staff<br />
